@@ -1,0 +1,32 @@
+Satılık Ev:4
+Oda sayısı:5
+Kat no:4
+Alan(m2):150
+Semt:lks
+Fiyat:12000000
+
+
+Satılık Ev:6
+Oda sayısı:5
+Kat no:6
+Alan(m2):150
+Semt:ada
+Fiyat:12000000
+
+
+Satılık Ev:6
+Oda sayısı:2
+Kat no:2
+Alan(m2):100
+Semt:aer
+Fiyat:3500000
+
+
+Satılık Ev:7
+Oda sayısı:3
+Kat no:1
+Alan(m2):125
+Semt:kırk
+Fiyat:4800000
+
+

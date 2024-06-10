@@ -1,0 +1,18 @@
+Kiralık Ev:1
+Oda sayısı:3
+Kat no:2
+Alan(m2):110
+Semt:mke
+Kira:10000
+Depozito:15000
+
+
+Kiralık Ev:2
+Oda sayısı:2
+Kat no:9
+Alan(m2):100
+Semt:ulus
+Kira:10000
+Depozito:19000
+
+
