@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Configuration;
 
-namespace EmlakcıUygulaması
+namespace EmlakciUygulamasi
 {
 
     internal class Program
