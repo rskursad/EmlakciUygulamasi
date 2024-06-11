@@ -46,7 +46,7 @@ namespace EmlakciUygulamasi
 
         public static void KiralikTxtYaz(List<KiralikEv> list)
         {
-            string Txt = "C:\\Kürşad\\Kod\\Programlama Temelleri\\EmlakcıUygulaması\\EmlakcıUygulaması\\KiralikEvler.txt";
+            string Txt = "C:\\Kürşad\\Kod\\Programlama Temelleri\\EmlakciUygulaması\\EmlakcıUygulaması\\KiralikEvler.txt";
             using (StreamWriter write = new StreamWriter(Txt,true))
             {
                 foreach (var kev in list)
@@ -59,7 +59,7 @@ namespace EmlakciUygulamasi
         }
         public static void SatilikTxtYaz(List<SatilikEv> list)
         {
-            string Txt = "C:\\Kürşad\\Kod\\Programlama Temelleri\\EmlakcıUygulaması\\EmlakcıUygulaması\\SatilikEvler.txt";
+            string Txt = "C:\\Kürşad\\Kod\\Programlama Temelleri\\EmlakciUygulaması\\EmlakcıUygulaması\\SatilikEvler.txt";
             using (StreamWriter write = new StreamWriter(Txt,true))
             {
                 foreach (var sev in list)
@@ -72,7 +72,7 @@ namespace EmlakciUygulamasi
         }
         public static void KiralikTxtOku()
         { 
-            string Txt = "C:\\Kürşad\\Kod\\Programlama Temelleri\\EmlakcıUygulaması\\EmlakcıUygulaması\\KiralikEvler.txt";
+            string Txt = "C:\\Kürşad\\Kod\\Programlama Temelleri\\EmlakciUygulaması\\EmlakcıUygulaması\\KiralikEvler.txt";
             using (StreamReader read = new StreamReader(Txt))
             {
                 string veri = read.ReadToEnd();
@@ -81,7 +81,7 @@ namespace EmlakciUygulamasi
         }
         public static void SatilikTxtOku()
         {
-            string Txt = "C:\\Kürşad\\Kod\\Programlama Temelleri\\EmlakcıUygulaması\\EmlakcıUygulaması\\SatilikEvler.txt";
+            string Txt = "C:\\Kürşad\\Kod\\Programlama Temelleri\\EmlakciUygulaması\\EmlakcıUygulaması\\SatilikEvler.txt";
             using (StreamReader read = new StreamReader(Txt))
             {
                 string veri = read.ReadToEnd();
